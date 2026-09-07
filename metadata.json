@@ -1,0 +1,6 @@
+{
+  "name": "Çeteoğlu Haşhaş Susam",
+  "description": "Gelenekten Sofranıza: Taze Çekilmiş Haşhaş, Susam ve Doğal Lezzetler",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
